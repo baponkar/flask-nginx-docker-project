@@ -1,0 +1,9 @@
+.
+├── ./app
+│   └── ./app/main.py
+├── ./Dockerfile
+├── ./README.md
+├── ./requirements.txt
+└── ./venv
+
+

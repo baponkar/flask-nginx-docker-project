@@ -4,6 +4,12 @@
 This docker project create a simple python3 rest server implementing in nginx inside of docker container.
 The server can see in host-computer id (in my case 192.168.**.*).
 
+File Structure:
+
+![file structures](files_and_dir_structure.png)
+
+Docker download : [official doc](https://docs.docker.com/get-docker/)
+
 To run the project :
 1. `cd flask-nginx-dockker-project-dir-location`
 2. `sudo docker build -t flask-docker-project .` build image
